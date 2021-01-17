@@ -14,4 +14,4 @@ Space Farm Game is an endless farming game made with Unity using C#. This was a 
 
 ## Build
 
-In order to build the game, Unity 2019.4.17f1 is required. Later versions can be used but you may see unexpected results. Open the root directory as the project file, navigate to File -> Build Settings -> select your target platform and select Build/Build And Run.
+In order to build the game, Unity 2019.4.17f1 is required. Later versions can be used but you may see unexpected results. Select the Project directory when opening a new project, then navigate to File -> Build Settings -> select your target platform and select Build/Build And Run.
