@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project A",
+"productVersion": "1.0",
+"dataUrl": "Space-Farm-Game.data.unityweb",
+"asmCodeUrl": "Space-Farm-Game.asm.code.unityweb",
+"asmMemoryUrl": "Space-Farm-Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Space-Farm-Game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
